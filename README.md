@@ -1,18 +1,5 @@
 # PRISM implementation
 
-Supervised and Experiential Learning Lab 1 - MSc in AI at UPC
-
-## Introduction
-
-## Running the code
-
-## Authors
-
-Guillermo Creus
-
-
-# PRISM implementation
-
 Practical work from the Supervised and Experiential Learning course - MSc in AI at UPC
 
 ## Introduction
