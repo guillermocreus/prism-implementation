@@ -55,6 +55,9 @@ deactivate
 source venv/bin/activate
 ```
 2. Running the script
+	```bash
+	cd src
+	```
 
 	2.1.  For **Wines dataset** (small dataset) execute
 	```bash
