@@ -20,7 +20,7 @@ A more detailed analysis of this task is shown in this [document](./report.pdf).
 
 Steps to run the script
 
-### Running script for the first time
+### Running the script for the first time
 This section shows how to create a virtual environment, which is needed to run the scripts from this project
 1. Open folder in terminal
 ```bash
